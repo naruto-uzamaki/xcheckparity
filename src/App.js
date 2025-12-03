@@ -28,7 +28,7 @@ function App() {
     }
 
     if (parity === "Even") {
-      return <p>The number {data} is Even!</p>
+      return <p>The number {data} is even!</p>
     }
 
     if (parity === "Odd") {
